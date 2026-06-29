@@ -1,0 +1,322 @@
+canonical_identifier: bkk:krp/KR3er108/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er108/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 類證普濟本事方續集
+  identifiers:
+    krp: KR3er108
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er108.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3er108_001-jc.yaml, hash: 'sha256:c9547cb0e716475598924a591763d59235590296fd0608879daeb38401a7f6d6'}
+  - {seq: 2, filename: KR3er108_002-jc.yaml, hash: 'sha256:e0105f3c26ab94e721d07f48d48f243ef6729cd20e7f80d2534b4c6364818a2e'}
+  - {seq: 3, filename: KR3er108_003-jc.yaml, hash: 'sha256:1658621651b194cbbf5b69baa894eefef9100793b17b3088720fab345584c8e0'}
+  - {seq: 4, filename: KR3er108_004-jc.yaml, hash: 'sha256:99ae65c4e5b760caeac884f80f2950bf08bd38a4804c96392ddd91c82fbf750c'}
+  - {seq: 5, filename: KR3er108_005-jc.yaml, hash: 'sha256:f7f3e5dd9c8c924d6a6c500afba5e1e1bae98c63dc0fe123526709c7c47e5bb4'}
+  - {seq: 6, filename: KR3er108_006-jc.yaml, hash: 'sha256:2d2170d9a72d75d6d3f9de7f64bf16cc51fd75db11d38189eead476c1d3c1e93'}
+  - {seq: 7, filename: KR3er108_007-jc.yaml, hash: 'sha256:ab93fe9bdc21723330869107ec4b045a8a7000d37368c778a22d87ffd9cb3348'}
+  - {seq: 8, filename: KR3er108_008-jc.yaml, hash: 'sha256:783b9fd8a9674d70866d1319b82062844067fba5f35e1aafdbbcf233a57bad24'}
+  - {seq: 9, filename: KR3er108_009-jc.yaml, hash: 'sha256:7f25c0610ab8e69cd62fc1db3fcedc41c948e5beb9e131b1ada17d31a524358b'}
+  - {seq: 10, filename: KR3er108_010-jc.yaml, hash: 'sha256:fb21934bf1e310506d83b36a4b4d2f46b69ecae325b2998ce04815760b3cfa58'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3er108_001-jc.markers.yaml, hash: 'sha256:c3d845ac37e3db80e54836a932787cf7864c53caf5778d99bbc9995209fa3467'}
+  - {seq: 2, role: markers, filename: assets/KR3er108_002-jc.markers.yaml, hash: 'sha256:479c2267c21d934bb0093c143199d1672e12126d8ff2cf394922e4cb66377988'}
+  - {seq: 3, role: markers, filename: assets/KR3er108_003-jc.markers.yaml, hash: 'sha256:ab8ba904546a9458bcfd8b6c95664de8e3eada6a3ef71c1b541b3abaafa9910e'}
+  - {seq: 4, role: markers, filename: assets/KR3er108_004-jc.markers.yaml, hash: 'sha256:2e97d307d8b70059b300657b1a9e8c25b55b385d20e60ae96c54e97c358501d5'}
+  - {seq: 5, role: markers, filename: assets/KR3er108_005-jc.markers.yaml, hash: 'sha256:6cdfb7d69b1fd506280867fc6dc0a082d49feccf918b7a8913a7dedf7b08fb30'}
+  - {seq: 6, role: markers, filename: assets/KR3er108_006-jc.markers.yaml, hash: 'sha256:d1df0f671efa91e547afa4fed3e6035eaf12fa5b34e88481f55b8c66370f74f4'}
+  - {seq: 7, role: markers, filename: assets/KR3er108_007-jc.markers.yaml, hash: 'sha256:ca95804f974cf699ee1e3c4991cf3f4c53bfe96af353cbfafaa6e69ecf35b1aa'}
+  - {seq: 8, role: markers, filename: assets/KR3er108_008-jc.markers.yaml, hash: 'sha256:0e2b54928527fdfed613787d9baa64c817d8bceb7be7b6e5b369a6f54026f363'}
+  - {seq: 9, role: markers, filename: assets/KR3er108_009-jc.markers.yaml, hash: 'sha256:0140d9245c025aab9855b70f524ffb22bd42aef4683cc27424f514678ca5d09d'}
+  - {seq: 10, role: markers, filename: assets/KR3er108_010-jc.markers.yaml, hash: 'sha256:05838cf73d0f187d2b1971c09c4f949fabdb45bceb24f5283b396781d43d6f95'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3er108_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 3119
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er108_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 3119
+  label: 治諸虛進食生血氣並論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er108_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 2853
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er108_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 2853
+  label: 治諸積熱等疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er108_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 2951
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er108_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1840
+  label: 治諸氣冷等疾
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er108_jc_003-d4d3
+    span:
+    - body
+    - 1840
+    - 2951
+  label: 治諸脾胃等疾
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er108_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2830
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3er108_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 1115
+  label: 治諸口舌牙齒患
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er108_jc_004-d5d3
+    span:
+    - body
+    - 1115
+    - 2830
+  label: 治諸眼目等患
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er108_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 1895
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3er108_jc_005-d6d2
+    span:
+    - body
+    - 2
+    - 1256
+  label: 治諸喘嗽等患
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er108_jc_005-d6.d2d2
+    span:
+    - body
+    - 8
+    - 1256
+  label: 治遠年日近喘嗽
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3er108_jc_005-d6d3
+    span:
+    - body
+    - 1256
+    - 1613
+  label: 治諸瘰癧等患
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3er108_jc_005-d6d4
+    span:
+    - body
+    - 1613
+    - 1895
+  label: 治諸鼻耳等患
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er108_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 3412
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3er108_jc_006-d7d2
+    span:
+    - body
+    - 2
+    - 1339
+  label: 治諸癤等患
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er108_jc_006-d7d3
+    span:
+    - body
+    - 1339
+    - 1972
+  label: 治諸水腫氣疾
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3er108_jc_006-d7d4
+    span:
+    - body
+    - 1972
+    - 3412
+  label: 治諸瀉痢疾附大便秘
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3er108_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 1315
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3er108_jc_007-d8d2
+    span:
+    - body
+    - 2
+    - 1315
+  label: 治諸痔疾並論五痔
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3er108_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 1281
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3er108_jc_008-d9d2
+    span:
+    - body
+    - 2
+    - 1281
+  label: 治諸打撲傷損等疾
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3er108_jc_009-d10.h1s1
+    span:
+    - body
+    - 0
+    - 1343
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3er108_jc_009-d10d2
+    span:
+    - body
+    - 2
+    - 727
+  label: 治諸腸風酒痢等疾
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3er108_jc_009-d10d3
+    span:
+    - body
+    - 727
+    - 1343
+  label: 治諸寸白蟲等患
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3er108_jc_010-d11.h1s1
+    span:
+    - body
+    - 0
+    - 1435
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3er108_jc_010-d11d2
+    span:
+    - body
+    - 2
+    - 1435
+  label: 治小兒諸疾
+  type: section
+  level: 2
+hash: sha256:82d790c71cd79f219c041ab2ac22456bb4df21ba67922ebb1c33167ed1cf0119
