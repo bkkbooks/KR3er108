@@ -43,10 +43,6 @@ markers:
   - {type: xml-element, offset: 74, content: '', id: KR3er108_jc_008-d9.d2p10_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_008-d9.d2p10}}
   - {type: xml-element, offset: 74, content: '', id: KR3er108_jc_008-d9.d2p12, name: p, role: open, attrs: {'xml:id': KR3er108_jc_008-d9.d2p12}}
   - {type: 'tls:seg', offset: 74, content: '', id: KR3er108_jc_008-d9.d2.p12s1}
-  - {type: substitution, offset: 93, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
-  - {type: substitution, offset: 139, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
-  - {type: substitution, offset: 144, original: 叚, replacement: 假, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1105}}
-  - {type: substitution, offset: 191, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: xml-element, offset: 192, content: '', id: KR3er108_jc_008-d9.d2p12_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_008-d9.d2p12}}
   - {type: xml-element, offset: 192, content: '', id: KR3er108_jc_008-d9.d2p14, name: p, role: open, attrs: {'xml:id': KR3er108_jc_008-d9.d2p14}}
   - {type: 'tls:seg', offset: 192, content: '', id: KR3er108_jc_008-d9.d2.p14s1}
@@ -144,7 +140,6 @@ markers:
   - {type: xml-element, offset: 432, content: '', id: KR3er108_jc_008-d9.d2p42_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_008-d9.d2p42}}
   - {type: xml-element, offset: 432, content: '', id: KR3er108_jc_008-d9.d2p44, name: p, role: open, attrs: {'xml:id': KR3er108_jc_008-d9.d2p44}}
   - {type: 'tls:seg', offset: 432, content: '', id: KR3er108_jc_008-d9.d2.p44s1}
-  - {type: substitution, offset: 461, original: 叚, replacement: 假, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1105}}
   - {type: punctuation, offset: 488, content: ○, id: KR3er108_jc_008-bkkpn29}
   - {type: xml-element, offset: 498, content: '', id: KR3er108_jc_008-d9.d2p44_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_008-d9.d2p44}}
   - {type: xml-element, offset: 498, content: '', id: KR3er108_jc_008-d9.d2p46, name: p, role: open, attrs: {'xml:id': KR3er108_jc_008-d9.d2p46}}
@@ -308,7 +303,6 @@ markers:
   - {type: punctuation, offset: 1025, content: ）, id: KR3er108_jc_008-bkkpn57}
   - {type: 'tls:seg-end', offset: 1025, content: '', id: KR3er108_jc_008-d9.d2.p92s3_end, seg_type: comm}
   - {type: 'tls:seg', offset: 1025, content: '', id: KR3er108_jc_008-d9.d2.p92s4}
-  - {type: substitution, offset: 1025, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: 'tls:seg-start', offset: 1028, content: '', id: KR3er108_jc_008-d9.d2.p92s5, seg_type: comm, member_ids: [KR3er108_jc_008-d9.d2.p92s5]}
   - {type: 'tls:seg', offset: 1028, content: '', id: KR3er108_jc_008-d9.d2.p92s5}
   - {type: punctuation, offset: 1028, content: （, id: KR3er108_jc_008-bkkpn58}
@@ -381,4 +375,4 @@ markers:
   - {type: 'tls:seg', offset: 1206, content: '', id: KR3er108_jc_008-d9.d2.p118s1}
   - {type: xml-element, offset: 1281, content: '', id: KR3er108_jc_008-d9.d2p118_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_008-d9.d2p118}}
   back: []
-hash: sha256:5065233609673cdb04c15c9e57ccb13d67dc1b18ca8e6e0018dc7ee635bdf2a1
+hash: sha256:3293dbac4d4006b08178c1bbc4504a1293f2f41fd5bd5668dbc4391556095d5c

@@ -31,7 +31,6 @@ markers:
   - {type: 'tls:seg', offset: 97, content: '', id: KR3er108_jc_009-d10.d2.p10s2}
   - {type: punctuation, offset: 97, content: （, id: KR3er108_jc_009-bkkpn7}
   - {type: punctuation, offset: 99, content: □, id: KR3er108_jc_009-bkkpn8}
-  - {type: substitution, offset: 100, original: 蕈, replacement: 菌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3893}}
   - {type: punctuation, offset: 103, content: ）, id: KR3er108_jc_009-bkkpn9}
   - {type: 'tls:seg-end', offset: 103, content: '', id: KR3er108_jc_009-d10.d2.p10s2_end, seg_type: comm}
   - {type: xml-element, offset: 103, content: '', id: KR3er108_jc_009-d10.d2p10_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_009-d10.d2p10}}
@@ -170,7 +169,6 @@ markers:
   - {type: xml-element, offset: 430, content: '', id: KR3er108_jc_009-d10.d2p64_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_009-d10.d2p64}}
   - {type: xml-element, offset: 430, content: '', id: KR3er108_jc_009-d10.d2p66, name: p, role: open, attrs: {'xml:id': KR3er108_jc_009-d10.d2p66}}
   - {type: 'tls:seg', offset: 430, content: '', id: KR3er108_jc_009-d10.d2.p66s1}
-  - {type: substitution, offset: 433, original: 搥, replacement: 捶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1050}}
   - {type: 'tls:seg-start', offset: 473, content: '', id: KR3er108_jc_009-d10.d2.p66s2, seg_type: comm, member_ids: [KR3er108_jc_009-d10.d2.p66s2]}
   - {type: 'tls:seg', offset: 473, content: '', id: KR3er108_jc_009-d10.d2.p66s2}
   - {type: punctuation, offset: 473, content: （, id: KR3er108_jc_009-bkkpn36}
@@ -495,4 +493,4 @@ markers:
   - {type: 'tls:seg', offset: 1316, content: '', id: KR3er108_jc_009-d10.d3.p60s1}
   - {type: xml-element, offset: 1343, content: '', id: KR3er108_jc_009-d10.d3p60_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_009-d10.d3p60}}
   back: []
-hash: sha256:f07942937fddae9544a9aed15baa8f99f5e38ffa906d90241e6392fbc260a671
+hash: sha256:48e4a64d9ed6b7fc23f55060ddc6df5ba96e5b3f9a1f8d4d06bdb53521e3d380

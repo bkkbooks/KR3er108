@@ -316,7 +316,6 @@ markers:
   - {type: xml-element, offset: 835, content: '', id: KR3er108_jc_010-d11.d2p104_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_010-d11.d2p104}}
   - {type: xml-element, offset: 835, content: '', id: KR3er108_jc_010-d11.d2p106, name: p, role: open, attrs: {'xml:id': KR3er108_jc_010-d11.d2p106}}
   - {type: 'tls:seg', offset: 835, content: '', id: KR3er108_jc_010-d11.d2.p106s1}
-  - {type: substitution, offset: 840, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: xml-element, offset: 845, content: '', id: KR3er108_jc_010-d11.d2p106_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_010-d11.d2p106}}
   - {type: xml-element, offset: 845, content: '', id: KR3er108_jc_010-d11.d2p108, name: p, role: open, attrs: {'xml:id': KR3er108_jc_010-d11.d2p108}}
   - {type: 'tls:seg', offset: 845, content: '', id: KR3er108_jc_010-d11.d2.p108s1}
@@ -341,7 +340,6 @@ markers:
   - {type: xml-element, offset: 913, content: '', id: KR3er108_jc_010-d11.d2p112_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_010-d11.d2p112}}
   - {type: xml-element, offset: 913, content: '', id: KR3er108_jc_010-d11.d2p114, name: p, role: open, attrs: {'xml:id': KR3er108_jc_010-d11.d2p114}}
   - {type: 'tls:seg', offset: 913, content: '', id: KR3er108_jc_010-d11.d2.p114s1}
-  - {type: substitution, offset: 940, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: xml-element, offset: 979, content: '', id: KR3er108_jc_010-d11.d2p114_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_010-d11.d2p114}}
   - {type: xml-element, offset: 979, content: '', id: KR3er108_jc_010-d11.d2p116, name: p, role: open, attrs: {'xml:id': KR3er108_jc_010-d11.d2p116}}
   - {type: 'tls:seg', offset: 979, content: '', id: KR3er108_jc_010-d11.d2.p116s1}
@@ -432,7 +430,6 @@ markers:
   - {type: xml-element, offset: 1212, content: '', id: KR3er108_jc_010-d11.d2p150, name: p, role: open, attrs: {'xml:id': KR3er108_jc_010-d11.d2p150}}
   - {type: 'tls:seg', offset: 1212, content: '', id: KR3er108_jc_010-d11.d2.p150s1}
   - {type: punctuation, offset: 1226, content: □, id: KR3er108_jc_010-bkkpn86}
-  - {type: substitution, offset: 1254, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: xml-element, offset: 1259, content: '', id: KR3er108_jc_010-d11.d2p150_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_010-d11.d2p150}}
   - {type: xml-element, offset: 1259, content: '', id: KR3er108_jc_010-d11.d2p152, name: p, role: open, attrs: {'xml:id': KR3er108_jc_010-d11.d2p152}}
   - {type: 'tls:seg', offset: 1259, content: '', id: KR3er108_jc_010-d11.d2.p152s1}
@@ -499,7 +496,6 @@ markers:
   - {type: xml-element, offset: 1399, content: '', id: KR3er108_jc_010-d11.d2p166_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_010-d11.d2p166}}
   - {type: xml-element, offset: 1399, content: '', id: KR3er108_jc_010-d11.d2p168, name: p, role: open, attrs: {'xml:id': KR3er108_jc_010-d11.d2p168}}
   - {type: 'tls:seg', offset: 1399, content: '', id: KR3er108_jc_010-d11.d2.p168s1}
-  - {type: substitution, offset: 1407, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: xml-element, offset: 1435, content: '', id: KR3er108_jc_010-d11.d2p168_end, name: p, role: close, attrs: {'xml:id': KR3er108_jc_010-d11.d2p168}}
   back: []
-hash: sha256:9e6482b496ac489a9de1f6a59071da7295418f841a25fb1b47a36ed74c0ab5ec
+hash: sha256:10e6315ec82859baaf5f53e14d213cb999d2c06782d0f05193d9a9548308c281
